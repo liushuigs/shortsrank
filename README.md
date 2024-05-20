@@ -17,7 +17,7 @@ Shortsrank是一款功能简洁、完整的短剧出海付费点播网站系统�
 
 ## 产品演示
 
-[https://www.shortsrank.com](https://www.shortsrank.com?utm_source=runjs)
+[https://www.shortsrank.com](https://www.shortsrank.com?utm_source=github)
 
 ## 产品截图
 
